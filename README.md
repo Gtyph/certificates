@@ -13,7 +13,7 @@ This repository contains certificates for courses I’ve completed on Udemy, dem
 ### 📜 Certificate
 
 ![Python Certificate](./python_certificate.png)  
-> Completed on 14 April 2025
+> Completed on April 2025
 
 ### 🧠 Topics Covered
 
@@ -44,7 +44,7 @@ This repository contains certificates for courses I’ve completed on Udemy, dem
 ### 📜 Certificate
 
 ![MySQL Certificate](./mysql_certificate.png)  
-> Completed on [Insert Date]
+> Completed on November 2024
 
 ### 🧠 Topics Covered
 
