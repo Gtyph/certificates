@@ -32,7 +32,7 @@ This repository contains certificates for courses I’ve completed on Udemy, dem
 - Jupyter Notebook
 
 🔗 [View Course on Udemy](https://www.udemy.com/course/complete-python-bootcamp/)
-
+🔗 [View Course on Github](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp.git)
 ---
 
 ## 🛢️ The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert
