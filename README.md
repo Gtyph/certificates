@@ -64,7 +64,6 @@ This repository contains certificates for courses I’ve completed on Udemy, dem
 ---
 
 ## 📂 Repository Structure
-your-repo/
 ├── README.md
 ├── python_certificate.png
 └── mysql_certificate.png
